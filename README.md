@@ -7,10 +7,10 @@
 
 ## Flow chart for the Application
 
-[] login
-[] signup
-[] 2FA login
-[] Home page
-[] chat room creat page
-[] song upload page
-[] view page 
+- [] login
+- [] signup
+- [] 2FA login
+- [] Home page
+- [] chat room creat page
+- [] song upload page
+- [] view page 
