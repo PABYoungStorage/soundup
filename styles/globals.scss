@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import "login.scss";
+
+:root {
+  --pink-1: #76226b;
+  --pink-2: #bf46ab;
+  --pink-3: #f485f5;
+  --pink-4: #f999fb;
+  --blue-1: #110c2d;
+  --blue-2: #31297f;
+  --blue-3: #6272f7;
+  --blue-4: #85d0ea;
+  --black-1: #1b1b1b;
+  --black-2: #5b4c79;
+  --white: #efdbc5;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  background-color: var(--blue-1);
+}
